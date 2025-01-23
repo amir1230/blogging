@@ -20,7 +20,7 @@ This is a NuxtJS blog application that demonstrates dynamic routing, user authen
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone git@github.com:mohammad-ammad/nuxtjs-blog-app.git
+   git clone git clone https://github.com/amir1230/blogging.git
    cd nuxtjs-blog-app
    ```
 
