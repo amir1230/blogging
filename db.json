@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1737587406381,
+      "title": "Test",
+      "category": "ABC",
+      "date": "2025-01-31",
+      "description": "Demo Testing",
+      "image": "https://images.unsplash.com/photo-1662947190722-5d272f82a526?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29vZ2xlJTIwbG9nb3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": 1737588709840,
+      "title": "testing",
+      "category": "testing",
+      "date": "2025-01-25",
+      "description": "11",
+      "image": "https://images.unsplash.com/photo-1662947190722-5d272f82a526?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29vZ2xlJTIwbG9nb3xlbnwwfHwwfHx8MA%3D%3D"
+    }
+  ]
+}
